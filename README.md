@@ -2,7 +2,7 @@
  Exploratory Data Analysis on Kaggle Car Data Set![mini-cooper-2021-redesign-designboom03](https://github.com/rbhardwaj2186/EDA_Kaggle_Car_dataset/assets/143745073/c5ec7c9d-68cd-41ef-bf7c-ca27e74a71f5)
 
 
- hat is Exploratory Data Analysis ?
+ What is Exploratory Data Analysis ?
 
 Exploratory Data Analysis or (EDA) is understanding the data sets by summarizing their main characteristics often plotting them visually. This step is very important especially when we arrive at modeling the data in order to apply Machine learning. Plotting in EDA consists of Histograms, Box plot, Scatter plot and many more. It often takes much time to explore the data. Through the process of EDA, we can ask to define the problem statement or definition on our data set which is very important.
 
